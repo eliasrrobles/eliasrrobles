@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elías</h1>
 <h3 align="center">A passionate full-stack dev from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasrrobles&label=Profile%20views&color=0e75b6&style=flat" alt="eliasrrobles" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erobrui2812&label=Profile%20views&color=0e75b6&style=flat" alt="erobrui2812" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
