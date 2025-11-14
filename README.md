@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1 align="left">Hola 👋, ¿que tal?</h1>
 
 ###
@@ -12,7 +18,15 @@
 
 ###
 
-<p align="left">Mi nombre es Elías Robles y soy un desarrollador web full-stack de Málaga, España.<br><br>📚 He estudiado un Grado Medio en Sistemas Microinformáticos y Redes (SMR), un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), y actualmente estoy estudiando el en Máster de Inteligencia Artificial y Big Data. A futuro me gustaría ir a la universidad y hacer Ingeniería Informática o Desarrollo de Software.<br><br>🗣️ Tengo el B1 de Inglés con Cambridge y he retomando el B2 de Inglés, quiero sacarme el C1 de Inglés y posteriormente B1 de Alemán y Francés.<br><br>✨ 'A programar se aprende programando'<br><br>🗃️ Otaku, petrolhead, gymbro, que más quieres...</p>
+<p align="left">Mi nombre es Elías Robles y soy un desarrollador web full-stack de Málaga, España.<br><br>📚 He estudiado un Grado Medio en Sistemas Microinformáticos y Redes (SMR), un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), y actualmente estoy estudiando el en Máster de Inteligencia Artificial y Big Data. A futuro me gustaría ir a la universidad y hacer Ingeniería Informática o Desarrollo de Software.<br><br>🗣️ Tengo el B1 de Inglés con Cambridge y he retomando el B2 de Inglés, quiero sacarme el C1 de Inglés y posteriormente B1 de Alemán y Francés.<br><br>✨ 'A programar se aprende programando'<br><br>🗃️ Otaku, petrolhead, gymbro, gamer, que más quieres...</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -92,6 +106,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasrrobles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasrrobles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliasrrobles.eliasrrobles&right_color=deepskyblue&left_text=Contador%20de%20visitas"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
