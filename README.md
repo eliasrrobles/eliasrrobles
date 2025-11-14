@@ -20,14 +20,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Tecnologías</h2>
 
 ###
@@ -118,10 +110,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eliasrrobles.eliasrrobles&right_color=deepskyblue&left_text=Contador%20de%20visitas"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/eliasrrobles/eliasrrobles/output/snake.svg" alt="Snake animation" />
 
 ###
 
