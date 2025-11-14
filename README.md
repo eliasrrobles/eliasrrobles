@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Bienvenido a mi perfil</h3>
 
 ###
